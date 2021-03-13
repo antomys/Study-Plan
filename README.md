@@ -1,6 +1,3 @@
-# 6-pacman-antomys
-6-pacman-antomys created by GitHub Classroom
-
 
 Доробити проект Pac-Man
 
