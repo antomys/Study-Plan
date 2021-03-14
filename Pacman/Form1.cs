@@ -24,7 +24,7 @@ namespace Pacman
         public Form1()
         {
             InitializeComponent();
-            SetupGame(1);
+            SetupGame(2);
         }
 
         public void SetupGame(int Level)
